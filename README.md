@@ -1,1 +1,0 @@
-# shopee-affiliate-api
